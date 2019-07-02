@@ -1,5 +1,5 @@
 ---
-title: The Light Fantastic (Rincewind)
+title: The Light Fantastic
 date: "2015-05-06T23:46:37.121Z"
 tags: ["Rincewind"]
 ---
