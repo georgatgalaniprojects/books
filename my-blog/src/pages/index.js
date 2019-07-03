@@ -32,7 +32,7 @@ class BlogIndex extends React.Component {
               <small>({node.frontmatter.tags})</small>
               <p
                 dangerouslySetInnerHTML={{
-                  __html: node.frontmatter.description || node.excerpt,
+                  __html: node.excerpt,
                 }}
               />
             </div>
