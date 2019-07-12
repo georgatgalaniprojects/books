@@ -1,7 +1,7 @@
 ---
 title: "Influence: The Psychology of Persuasion, Revised Edition"
 date: "2015-05-28T22:40:32.169Z"
-tags: ["psychology, "self development", "social"]
+tags: ["psychology", "self development", "social"]
 hero: "influence.jpg"
 ---
 
